@@ -3,11 +3,6 @@
 - Credit to Original Author: [ngxson](https://github.com/ngxson)
 - This branch fixed some bugs in the orignal File Browser binary  (e.g. whole page grayed out after uploading or deleting a file )
 
-### Changelog 
-- Updated to File [File Browser2.29.0](https://github.com/filebrowser/filebrowser/releases/tag/v2.29.0)
-- Reorganized KUAL menu order 
-- Added new KUAL menu action to disable Wi-Fi
-
 ### How to use
 
 - Connect your kindle to wifi
