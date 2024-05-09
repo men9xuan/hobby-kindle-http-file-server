@@ -14,13 +14,18 @@
                     "exitmenu": false
                 },
                 {
-                    "name": "Show status",
-                    "action": "/mnt/us/extensions/filebrowser/show_status.sh",
-                    "exitmenu": false
-                },
-                {
                     "name": "Enable Wifi",
                     "action": "lipc-set-prop com.lab126.cmd wirelessEnable 1",
+                    "exitmenu": false
+                },
+                                {
+                    "name": "Disable Wifi",
+                    "action": "lipc-set-prop com.lab126.cmd wirelessEnable 0",
+                    "exitmenu": false
+                },
+                                {
+                    "name": "Show status",
+                    "action": "/mnt/us/extensions/filebrowser/show_status.sh",
                     "exitmenu": false
                 }
             ]
